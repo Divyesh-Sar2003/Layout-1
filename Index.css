@@ -47,6 +47,9 @@ b{
     background-color: deepskyblue;
 }
 .col{ width: 50%;}
+.col-1{
+    text-align: right;
+}
 .bold{font-size: 40px; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 00px;
@@ -65,16 +68,24 @@ h5{
     font-size: larger;
     text-align: right;
 }
-.col-1 {
-    width: 30px;
-    padding-left: 30px;
-   
+.col-1 .col-2 .col-3{
+    width: 50px;
+    background-color: blue;
     height: 50px;
     color: blue;
 }
+.a{
+    margin-left: 90px;
+    padding-left: 10px;
 
+}
+
+.lorem{
+    text-align: right;
+}
 /*main section end*/
 body{
+    
     padding-right: 80px;
     padding-left: 80px;
     background-color: whitesmoke;
