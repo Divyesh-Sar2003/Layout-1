@@ -4,3 +4,56 @@
     padding: 0%;
 }
 /*common css end here*/
+
+/*main section start*/
+
+.row{align-items: center;}
+.logo{
+    text-align: center; 
+    width: 90px;
+    align-content:first baseline;
+    margin-left: 40%;
+}
+b{
+    color:  darkblue;
+    text-shadow: 30px;
+}
+.container{
+    width:995px;
+    height: 400px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.box{
+    font-size: 30px;
+    text-align: center;
+    height: 80px;
+    width: 450px;
+    
+    background-color: rgb(0, 89, 255);
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    margin-left: 400px;
+    margin-right: 50%;
+}
+.box2{
+    top: 3;
+    font-size: 20px;
+    text-align: center;
+    height: 40px;
+    width: 320px;
+    size: 500px;
+    margin-left: 470px;
+    background-color: deepskyblue;
+}
+.bold{font-size: 40px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 00px;
+}
+
+/*main section end*/
+body{
+    padding-right: 80px;
+    padding-left: 80px;
+    background-color: whitesmoke;
+}
